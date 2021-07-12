@@ -1,5 +1,6 @@
 # Criando o layout da Netflix
-link do site criado: https://fernandamakihirose.github.io/netflix/ 
+- A Netflix é um serviço de transmissão online que oferece uma ampla variedade de séries, filmes e documentários premiados em milhares de aparelhos conectados à internet. Nesse projeto desenvolvi seu layout, com um carrossel de filmes e design moderno, com diversos filmes desde Os Simpsons até Todo Mundo Odeia o Chris.
+- <a href="https://fernandamakihirose.github.io/netflix/">Clique aqui para ver o projeto</a>
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
